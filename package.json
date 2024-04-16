@@ -1,0 +1,26 @@
+{
+  "name": "@fahmiiihb/adi-id",
+  "version": "1.0.0",
+  "description": "hello Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahmiiihb/ADI-ID.git"
+  },
+  "keywords": [
+    "TEA",
+    "Project"
+  ],
+  "author": "mamen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahmiiihb/ADI-ID/issues"
+  },
+  "homepage": "https://github.com/fahmiiihb/ADI-ID#readme",
+  "dependencies": {
+    "adi-id": "^1.0.0"
+  }
+}
